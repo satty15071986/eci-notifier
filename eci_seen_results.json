@@ -202,5 +202,29 @@
     "winner": "PURNIMA CHAKRABORTY",
     "party": "Bharatiya Janata Party",
     "margin": "14633"
+  },
+  "FARAKKA": {
+    "status": "won",
+    "winner": "MOTAB SHAIKH",
+    "party": "Indian National Congress",
+    "margin": "8193"
+  },
+  "JOYPUR": {
+    "status": "won",
+    "winner": "BISWAJIT MAHATO",
+    "party": "Bharatiya Janata Party",
+    "margin": "22218"
+  },
+  "MEMARI": {
+    "status": "won",
+    "winner": "MANAB GUHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "7106"
+  },
+  "TAPAN": {
+    "status": "won",
+    "winner": "BUDHRAI TUDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "36987"
   }
 }
