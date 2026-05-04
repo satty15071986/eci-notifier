@@ -178,5 +178,29 @@
     "winner": "GOPAL CHATTOPADHYAY",
     "party": "Bharatiya Janata Party",
     "margin": "30226"
+  },
+  "GOGHAT": {
+    "status": "won",
+    "winner": "PRASANTA DIGAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "49582"
+  },
+  "KHANDAGHOSH": {
+    "status": "won",
+    "winner": "NABIN CHANDRA BAG",
+    "party": "All India Trinamool Congress",
+    "margin": "8284"
+  },
+  "NAIHATI": {
+    "status": "won",
+    "winner": "SUMITRO CHATTERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "10430"
+  },
+  "SHYAMPUKUR": {
+    "status": "won",
+    "winner": "PURNIMA CHAKRABORTY",
+    "party": "Bharatiya Janata Party",
+    "margin": "14633"
   }
 }
