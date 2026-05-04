@@ -826,5 +826,53 @@
     "winner": "JULFIKAR ALI",
     "party": "Indian National Congress",
     "margin": "2701"
+  },
+  "GHATAL": {
+    "status": "won",
+    "winner": "SITAL KAPAT",
+    "party": "Bharatiya Janata Party",
+    "margin": "37657"
+  },
+  "HOWRAH UTTAR": {
+    "status": "won",
+    "winner": "UMESH RAI",
+    "party": "Bharatiya Janata Party",
+    "margin": "11250"
+  },
+  "MAGRAHAT PURBA": {
+    "status": "won",
+    "winner": "SARMISTHA PURKAIT",
+    "party": "All India Trinamool Congress",
+    "margin": "31607"
+  },
+  "PANDABESWAR": {
+    "status": "won",
+    "winner": "JITENDRA KUMAR TEWARI",
+    "party": "Bharatiya Janata Party",
+    "margin": "1398"
+  },
+  "RAGHUNATHGANJ": {
+    "status": "won",
+    "winner": "AKHRUZZAMAN",
+    "party": "All India Trinamool Congress",
+    "margin": "40555"
+  },
+  "SAGAR": {
+    "status": "won",
+    "winner": "SUMANTA MANDAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "7881"
+  },
+  "SANDESHKHALI": {
+    "status": "won",
+    "winner": "SANAT SARDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "17510"
+  },
+  "SHYAMPUR": {
+    "status": "won",
+    "winner": "DR. HIRANMOY CHATTOPADHYAYA (HIRAAN)",
+    "party": "Bharatiya Janata Party",
+    "margin": "22260"
   }
 }
