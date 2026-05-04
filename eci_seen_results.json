@@ -874,5 +874,23 @@
     "winner": "DR. HIRANMOY CHATTOPADHYAYA (HIRAAN)",
     "party": "Bharatiya Janata Party",
     "margin": "22260"
+  },
+  "CHAKULIA": {
+    "status": "won",
+    "winner": "AZAD MINHAJUL ARFIN",
+    "party": "All India Trinamool Congress",
+    "margin": "28011"
+  },
+  "HABRA": {
+    "status": "won",
+    "winner": "DEBDAS MONDAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "31462"
+  },
+  "SREERAMPUR": {
+    "status": "won",
+    "winner": "BHASKAR BHATTACHARYA",
+    "party": "Bharatiya Janata Party",
+    "margin": "8685"
   }
 }
