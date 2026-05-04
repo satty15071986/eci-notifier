@@ -44,7 +44,13 @@ def scrape_page(page_num):
         return []
     soup = BeautifulSoup(r.text, "html.parser")
     rows = []
-    for tr in soup.select("table tbody tr"):
+    all_trs = soup.select("table tr")
+    if page_num == 1:
+        print(f"  [debug page 1] total <tr> found: {len(all_trs)}")
+        for i, tr in enumerate(all_trs[:3]):
+            tds = tr.find_all("td")
+            print(f"    row {i}: {len(tds)} tds -> {[td.get_text(strip=True)[:30] for td in tds]}")
+    for tr in all_trs:
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 9:
             continue
