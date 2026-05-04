@@ -1216,5 +1216,83 @@
     "winner": "PULAK ROY",
     "party": "All India Trinamool Congress",
     "margin": "17187"
+  },
+  "BARUIPUR PASCHIM": {
+    "status": "won",
+    "winner": "BIMAN BANERJEE",
+    "party": "All India Trinamool Congress",
+    "margin": "17862"
+  },
+  "BELEGHATA": {
+    "status": "won",
+    "winner": "KUNAL KUMAR GHOSH",
+    "party": "All India Trinamool Congress",
+    "margin": "28576"
+  },
+  "DUM DUM": {
+    "status": "won",
+    "winner": "ARIJIT BAKSHI",
+    "party": "Bharatiya Janata Party",
+    "margin": "25273"
+  },
+  "GAZOLE": {
+    "status": "won",
+    "winner": "CHINMOY DEB BARMAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "38192"
+  },
+  "HARINGHATA": {
+    "status": "won",
+    "winner": "ASIM KUMAR SARKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "22055"
+  },
+  "JALPAIGURI": {
+    "status": "won",
+    "winner": "ANANTA DEB ADHIKARY",
+    "party": "Bharatiya Janata Party",
+    "margin": "68805"
+  },
+  "KALYANI": {
+    "status": "won",
+    "winner": "ANUPAM BISWAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "34792"
+  },
+  "KANTHI DAKSHIN": {
+    "status": "won",
+    "winner": "ARUP KUMAR DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "31472"
+  },
+  "LABPUR": {
+    "status": "won",
+    "winner": "DEBASIS OJHA (HAKU DA)",
+    "party": "Bharatiya Janata Party",
+    "margin": "3550"
+  },
+  "NABADWIP": {
+    "status": "won",
+    "winner": "SRUTISEKHAR GOSWAMI",
+    "party": "Bharatiya Janata Party",
+    "margin": "21444"
+  },
+  "PATASHPUR": {
+    "status": "won",
+    "winner": "TAPAN MAITY",
+    "party": "Bharatiya Janata Party",
+    "margin": "9051"
+  },
+  "SILIGURI": {
+    "status": "won",
+    "winner": "SHANKAR GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "73192"
+  },
+  "UTTARPARA": {
+    "status": "won",
+    "winner": "DIPANJAN CHAKRABORTY",
+    "party": "Bharatiya Janata Party",
+    "margin": "10415"
   }
 }
