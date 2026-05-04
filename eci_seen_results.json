@@ -634,5 +634,47 @@
     "winner": "SOUVIK PATRA",
     "party": "Bharatiya Janata Party",
     "margin": "50073"
+  },
+  "BAHARAMPUR": {
+    "status": "won",
+    "winner": "SUBRATA MAITRA (KANCHAN)",
+    "party": "Bharatiya Janata Party",
+    "margin": "17548"
+  },
+  "BINPUR": {
+    "status": "won",
+    "winner": "DR. PRANAT TUDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "22977"
+  },
+  "CHOPRA": {
+    "status": "won",
+    "winner": "HAMIDUL RAHAMAN",
+    "party": "All India Trinamool Congress",
+    "margin": "69124"
+  },
+  "DABGRAM-FULBARI": {
+    "status": "won",
+    "winner": "SIKHA CHATTERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "97715"
+  },
+  "DURGAPUR PURBA": {
+    "status": "won",
+    "winner": "CHANDRA SEKHAR BANERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "30934"
+  },
+  "KATWA": {
+    "status": "won",
+    "winner": "KRISHNA GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "35066"
+  },
+  "RAGHUNATHPUR": {
+    "status": "won",
+    "winner": "MAMONI BAURI",
+    "party": "Bharatiya Janata Party",
+    "margin": "44059"
   }
 }
