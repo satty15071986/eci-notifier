@@ -1,1 +1,62 @@
-{}
+{
+  "ASANSOL DAKSHIN": {
+    "status": "won",
+    "winner": "AGNIMITRA PAUL",
+    "party": "Bharatiya Janata Party",
+    "margin": "40839"
+  },
+  "BHAGAWANGOLA": {
+    "status": "won",
+    "winner": "REYAT HOSSAIN SARKAR",
+    "party": "All India Trinamool Congress",
+    "margin": "56407"
+  },
+  "BHATAR": {
+    "status": "won",
+    "winner": "KARFA SOUMEN",
+    "party": "Bharatiya Janata Party",
+    "margin": "6528"
+  },
+  "BURWAN": {
+    "status": "won",
+    "winner": "SUKHEN KUMAR BAGDI",
+    "party": "Bharatiya Janata Party",
+    "margin": "22300"
+  },
+  "DARJEELING": {
+    "status": "won",
+    "winner": "NOMAN RAI",
+    "party": "Bharatiya Janata Party",
+    "margin": "6057"
+  },
+  "JAMURIA": {
+    "status": "won",
+    "winner": "DR. BIJAN MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "22514"
+  },
+  "KALIMPONG": {
+    "status": "won",
+    "winner": "BHARAT KUMAR CHETRI",
+    "party": "Bharatiya Janata Party",
+    "margin": "21464"
+  },
+  "KHARDAHA": {
+    "status": "won",
+    "winner": "KALYAN CHAKRABORTI",
+    "party": "Bharatiya Janata Party",
+    "margin": "24486"
+  },
+  "MEDINIPUR": {
+    "status": "won",
+    "winner": "SANKAR KUMAR GUCHHAIT",
+    "party": "Bharatiya Janata Party",
+    "margin": "38747"
+  },
+  "MONTESWAR": {
+    "status": "won",
+    "winner": "SAIKAT PANJA",
+    "party": "Bharatiya Janata Party",
+    "margin": "14798"
+  }
+}
