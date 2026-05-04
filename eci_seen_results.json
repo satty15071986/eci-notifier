@@ -154,5 +154,29 @@
     "winner": "LAKSHMI KANTA SAU",
     "party": "Bharatiya Janata Party",
     "margin": "38147"
+  },
+  "AUSGRAM": {
+    "status": "won",
+    "winner": "KALITA MAJI",
+    "party": "Bharatiya Janata Party",
+    "margin": "12535"
+  },
+  "BALAGARH": {
+    "status": "won",
+    "winner": "SUMANA SARKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "41914"
+  },
+  "NAYAGRAM": {
+    "status": "won",
+    "winner": "AMIYA KISKU",
+    "party": "Bharatiya Janata Party",
+    "margin": "6424"
+  },
+  "PURBASTHALI UTTAR": {
+    "status": "won",
+    "winner": "GOPAL CHATTOPADHYAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "30226"
   }
 }
