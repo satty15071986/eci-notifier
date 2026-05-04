@@ -988,5 +988,41 @@
     "winner": "BARNALI DHARA",
     "party": "All India Trinamool Congress",
     "margin": "10383"
+  },
+  "BALURGHAT": {
+    "status": "won",
+    "winner": "BIDYUT KUMAR ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "47576"
+  },
+  "BARANAGAR": {
+    "status": "won",
+    "winner": "SAJAL GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "16956"
+  },
+  "DOMKAL": {
+    "status": "won",
+    "winner": "MD. MOSTAFIJUR RAHAMAN",
+    "party": "Communist Party of India (Marxist)",
+    "margin": "16296"
+  },
+  "EGRA": {
+    "status": "won",
+    "winner": "ADHIKARI DIBYENDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "25692"
+  },
+  "GANGARAMPUR": {
+    "status": "won",
+    "winner": "SATYENDRA NATH ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "28339"
+  },
+  "MALDAHA": {
+    "status": "won",
+    "winner": "GOPAL CHANDRA SAHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "50128"
   }
 }
