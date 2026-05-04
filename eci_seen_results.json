@@ -1162,5 +1162,41 @@
     "winner": "ARUP KUMAR DAS",
     "party": "Bharatiya Janata Party",
     "margin": "21438"
+  },
+  "BARASAT": {
+    "status": "won",
+    "winner": "SANKAR CHATTERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "34558"
+  },
+  "CHAMPDANI": {
+    "status": "won",
+    "winner": "DILIP SINGH",
+    "party": "Bharatiya Janata Party",
+    "margin": "3026"
+  },
+  "JANGIPUR": {
+    "status": "won",
+    "winner": "CHITTA MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "10542"
+  },
+  "MAHESHTALA": {
+    "status": "won",
+    "winner": "SUBHASIS DAS",
+    "party": "All India Trinamool Congress",
+    "margin": "32913"
+  },
+  "MOYNA": {
+    "status": "won",
+    "winner": "ASHOKE DINDA",
+    "party": "Bharatiya Janata Party",
+    "margin": "16241"
+  },
+  "RATUA": {
+    "status": "won",
+    "winner": "SAMAR MUKHERJEE",
+    "party": "All India Trinamool Congress",
+    "margin": "32562"
   }
 }
