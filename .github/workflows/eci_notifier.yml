@@ -1,0 +1,54 @@
+name: ECI Result Notifier
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes (GitHub's minimum)
+  workflow_dispatch:          # allow manual trigger from Actions tab
+
+concurrency:
+  group: eci-notifier
+  cancel-in-progress: false  # never drop a run mid-poll
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 curl-cffi
+
+      - name: Poll ECI and notify
+        run: python eci_notifier_once.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add eci_seen_results.json
+          git diff --cached --quiet || git commit -m "chore: update election state"
+          git push || true
+
+      - name: Disable workflow when all 294 declared
+        run: |
+          TOTAL=$(python -c "
+          import json, os
+          d = json.load(open('eci_seen_results.json')) if os.path.exists('eci_seen_results.json') else {}
+          print(sum(1 for v in d.values() if v.get('status') == 'won'))
+          ")
+          echo "Total declared: $TOTAL / 294"
+          if [ "$TOTAL" -ge "294" ]; then
+            gh workflow disable "eci_notifier.yml"
+            echo "All 294 declared - workflow disabled."
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
