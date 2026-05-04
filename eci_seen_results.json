@@ -346,5 +346,11 @@
     "winner": "DINESH SARKAR",
     "party": "Bharatiya Janata Party",
     "margin": "21477"
+  },
+  "BIJPUR": {
+    "status": "won",
+    "winner": "SUDIPTA DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "13343"
   }
 }
