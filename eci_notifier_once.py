@@ -2,7 +2,7 @@
 ECI WB 2026 - single poll run for GitHub Actions.
 Run once per invocation; state persisted in eci_seen_results.json.
 """
-import os, json, sys, time
+import os, json, time
 import requests
 from bs4 import BeautifulSoup
 from curl_cffi import requests as cffi_requests
@@ -34,6 +34,10 @@ def _party_name(td):
     nested = td.find("td")
     return nested.get_text(" ", strip=True) if nested else td.get_text(" ", strip=True)
 
+def is_declared(status):
+    s = status.lower()
+    return "counted" in s or "won" in s or "declared" in s
+
 def scrape_page(page_num):
     url = BASE_URL.format(page_num)
     try:
@@ -46,10 +50,10 @@ def scrape_page(page_num):
     rows = []
     all_trs = soup.select("table tr")
     if page_num == 1:
-        print(f"  [debug page 1] total <tr> found: {len(all_trs)}")
+        print(f"  [debug p1] {len(all_trs)} <tr> rows")
         for i, tr in enumerate(all_trs[:3]):
-            tds = tr.find_all("td")
-            print(f"    row {i}: {len(tds)} tds -> {[td.get_text(strip=True)[:30] for td in tds]}")
+            tds = tr.find_all("td", recursive=False)
+            print(f"    r{i}: {len(tds)} direct tds -> {[t.get_text(strip=True)[:20] for t in tds]}")
     for tr in all_trs:
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 9:
@@ -90,18 +94,21 @@ def save_seen(seen):
 def main():
     seen = load_seen()
     newly_declared = []
+    all_statuses = set()
 
     for page in range(1, NUM_PAGES + 1):
         for r in scrape_page(page):
+            all_statuses.add(r["status"])
             key = r["constituency"]
             if not key:
                 continue
-            if "won" in r["status"].lower() and seen.get(key, {}).get("status") != "won":
+            if is_declared(r["status"]) and seen.get(key, {}).get("status") != "won":
                 newly_declared.append(r)
                 seen[key] = {"status": "won", "winner": r["winner"],
                              "party": r["winner_party"], "margin": r["margin"]}
         time.sleep(1)
 
+    print(f"  [debug] unique statuses seen: {all_statuses}")
     total_won = sum(1 for v in seen.values() if v.get("status") == "won")
 
     if newly_declared:
