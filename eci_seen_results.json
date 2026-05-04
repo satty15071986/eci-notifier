@@ -430,5 +430,29 @@
     "winner": "SANGITA ROY",
     "party": "All India Trinamool Congress",
     "margin": "2721"
+  },
+  "PURULIA": {
+    "status": "won",
+    "winner": "SUDIP KUMAR MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "49253"
+  },
+  "RAINA": {
+    "status": "won",
+    "winner": "SUBHASH PATRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "834"
+  },
+  "RANAGHAT DAKSHIN": {
+    "status": "won",
+    "winner": "ASHIM KUMAR BISWAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "64464"
+  },
+  "SAPTAGRAM": {
+    "status": "won",
+    "winner": "SWARAJ GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "23289"
   }
 }
