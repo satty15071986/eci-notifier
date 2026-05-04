@@ -49,11 +49,6 @@ def scrape_page(page_num):
     soup = BeautifulSoup(r.text, "html.parser")
     rows = []
     all_trs = soup.select("table tr")
-    if page_num == 1:
-        print(f"  [debug p1] {len(all_trs)} <tr> rows")
-        for i, tr in enumerate(all_trs[:3]):
-            tds = tr.find_all("td", recursive=False)
-            print(f"    r{i}: {len(tds)} direct tds -> {[t.get_text(strip=True)[:20] for t in tds]}")
     for tr in all_trs:
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 9:
@@ -94,11 +89,8 @@ def save_seen(seen):
 def main():
     seen = load_seen()
     newly_declared = []
-    all_statuses = set()
-
     for page in range(1, NUM_PAGES + 1):
         for r in scrape_page(page):
-            all_statuses.add(r["status"])
             key = r["constituency"]
             if not key:
                 continue
@@ -108,7 +100,6 @@ def main():
                              "party": r["winner_party"], "margin": r["margin"]}
         time.sleep(1)
 
-    print(f"  [debug] unique statuses seen: {all_statuses}")
     total_won = sum(1 for v in seen.values() if v.get("status") == "won")
 
     if newly_declared:
