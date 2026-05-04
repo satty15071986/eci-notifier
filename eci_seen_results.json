@@ -136,5 +136,23 @@
     "winner": "DADHIRAM RAY",
     "party": "Bharatiya Janata Party",
     "margin": "29584"
+  },
+  "BARABANI": {
+    "status": "won",
+    "winner": "ARIJIT ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "11722"
+  },
+  "ITAHAR": {
+    "status": "won",
+    "winner": "MOSARAF HUSSEN",
+    "party": "All India Trinamool Congress",
+    "margin": "27878"
+  },
+  "JHARGRAM": {
+    "status": "won",
+    "winner": "LAKSHMI KANTA SAU",
+    "party": "Bharatiya Janata Party",
+    "margin": "38147"
   }
 }
