@@ -784,5 +784,17 @@
     "winner": "BIMAN MAHATA",
     "party": "Bharatiya Janata Party",
     "margin": "15243"
+  },
+  "CANNING PURBA": {
+    "status": "won",
+    "winner": "MD BAHARUL ISLAM",
+    "party": "All India Trinamool Congress",
+    "margin": "91954"
+  },
+  "DOMJUR": {
+    "status": "won",
+    "winner": "TAPAS MAITY",
+    "party": "All India Trinamool Congress",
+    "margin": "42177"
   }
 }
