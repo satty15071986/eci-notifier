@@ -262,5 +262,29 @@
     "winner": "AJAY RAY",
     "party": "Bharatiya Janata Party",
     "margin": "17447"
+  },
+  "HARIHARPARA": {
+    "status": "won",
+    "winner": "NIAMOT SHEIKH",
+    "party": "All India Trinamool Congress",
+    "margin": "12665"
+  },
+  "JALANGI": {
+    "status": "won",
+    "winner": "BABAR ALI",
+    "party": "All India Trinamool Congress",
+    "margin": "21516"
+  },
+  "KAMARHATI": {
+    "status": "won",
+    "winner": "MADAN MITRA",
+    "party": "All India Trinamool Congress",
+    "margin": "5646"
+  },
+  "REJINAGAR": {
+    "status": "won",
+    "winner": "HUMAYUN KABIR",
+    "party": "Aam Janata Unnayan party",
+    "margin": "58876"
   }
 }
