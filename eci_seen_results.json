@@ -1072,5 +1072,29 @@
     "winner": "RUPA GANGULY",
     "party": "Bharatiya Janata Party",
     "margin": "35782"
+  },
+  "BUDGE BUDGE": {
+    "status": "won",
+    "winner": "ASHOK KUMAR DEB",
+    "party": "All India Trinamool Congress",
+    "margin": "46850"
+  },
+  "ENGLISH BAZAR": {
+    "status": "won",
+    "winner": "AMLAN BHADURI (BURO)",
+    "party": "Bharatiya Janata Party",
+    "margin": "93784"
+  },
+  "PURSURAH": {
+    "status": "won",
+    "winner": "BIMAN GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "53453"
+  },
+  "RASHBEHARI": {
+    "status": "won",
+    "winner": "DASGUPTA SWAPAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "20865"
   }
 }
