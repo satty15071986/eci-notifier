@@ -124,5 +124,17 @@
     "winner": "MOHAMMED NOOR ALAM",
     "party": "All India Trinamool Congress",
     "margin": "7587"
+  },
+  "KULTALI": {
+    "status": "won",
+    "winner": "GANESH CHANDRA MONDAL",
+    "party": "All India Trinamool Congress",
+    "margin": "59276"
+  },
+  "MEKLIGANJ": {
+    "status": "won",
+    "winner": "DADHIRAM RAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "29584"
   }
 }
