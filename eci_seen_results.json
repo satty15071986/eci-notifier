@@ -478,5 +478,17 @@
     "winner": "SADHAN GHOSH",
     "party": "Bharatiya Janata Party",
     "margin": "27801"
+  },
+  "GOSABA": {
+    "status": "won",
+    "winner": "BIKARNA NASKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "16100"
+  },
+  "HAROA": {
+    "status": "won",
+    "winner": "ABDUL MATIN MUHAMMAD",
+    "party": "All India Trinamool Congress",
+    "margin": "49341"
   }
 }
