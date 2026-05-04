@@ -226,5 +226,35 @@
     "winner": "BUDHRAI TUDU",
     "party": "Bharatiya Janata Party",
     "margin": "36987"
+  },
+  "BHATPARA": {
+    "status": "won",
+    "winner": "PAWAN KUMAR SINGH",
+    "party": "Bharatiya Janata Party",
+    "margin": "22807"
+  },
+  "HABIBPUR": {
+    "status": "won",
+    "winner": "JOYEL MURMU",
+    "party": "Bharatiya Janata Party",
+    "margin": "78188"
+  },
+  "HEMTABAD": {
+    "status": "won",
+    "winner": "HARIPADA BARMAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "12361"
+  },
+  "MURSHIDABAD": {
+    "status": "won",
+    "winner": "GOURI SANKAR GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "31521"
+  },
+  "SANKRAIL": {
+    "status": "won",
+    "winner": "PRIYA PAUL",
+    "party": "All India Trinamool Congress",
+    "margin": "16740"
   }
 }
