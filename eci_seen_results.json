@@ -58,5 +58,23 @@
     "winner": "SAIKAT PANJA",
     "party": "Bharatiya Janata Party",
     "margin": "14798"
+  },
+  "JAGATBALLAVPUR": {
+    "status": "won",
+    "winner": "ANUPAM GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "6671"
+  },
+  "METIABURUZ": {
+    "status": "won",
+    "winner": "ABDUL KHALEQUE MOLLA",
+    "party": "All India Trinamool Congress",
+    "margin": "87879"
+  },
+  "RANIBANDH": {
+    "status": "won",
+    "winner": "KSHUDIRAM TUDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "52269"
   }
 }
