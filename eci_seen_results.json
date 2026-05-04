@@ -1132,5 +1132,35 @@
     "winner": "HARE KRISHNA BERA",
     "party": "Bharatiya Janata Party",
     "margin": "34729"
+  },
+  "BAISNABNAGAR": {
+    "status": "won",
+    "winner": "RAJU KARMAKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "46881"
+  },
+  "BIDHANNAGAR": {
+    "status": "won",
+    "winner": "SHARADWAT MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "37330"
+  },
+  "CHANDIPUR": {
+    "status": "won",
+    "winner": "PIJUSH KANTI DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "20270"
+  },
+  "MANGALKOT": {
+    "status": "won",
+    "winner": "SHISHIR GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "12723"
+  },
+  "SINGUR": {
+    "status": "won",
+    "winner": "ARUP KUMAR DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "21438"
   }
 }
