@@ -970,5 +970,23 @@
     "winner": "AMAL KUMAR PANDA",
     "party": "Bharatiya Janata Party",
     "margin": "11136"
+  },
+  "DHANEKHALI": {
+    "status": "won",
+    "winner": "ASIMA PATRA",
+    "party": "All India Trinamool Congress",
+    "margin": "13057"
+  },
+  "GAIGHATA": {
+    "status": "won",
+    "winner": "SUBRATA THAKUR",
+    "party": "Bharatiya Janata Party",
+    "margin": "47683"
+  },
+  "KULPI": {
+    "status": "won",
+    "winner": "BARNALI DHARA",
+    "party": "All India Trinamool Congress",
+    "margin": "10383"
   }
 }
