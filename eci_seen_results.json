@@ -946,5 +946,29 @@
     "winner": "NISHITH PRAMANIK",
     "party": "Bharatiya Janata Party",
     "margin": "57090"
+  },
+  "BASIRHAT UTTAR": {
+    "status": "won",
+    "winner": "MD. TAUSEFFUR RAHMAN",
+    "party": "All India Trinamool Congress",
+    "margin": "57270"
+  },
+  "GOALPOKHAR": {
+    "status": "won",
+    "winner": "MD GHULAM RABBANI",
+    "party": "All India Trinamool Congress",
+    "margin": "83790"
+  },
+  "NANDAKUMAR": {
+    "status": "won",
+    "winner": "KHANRA NIRMAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "30603"
+  },
+  "SABANG": {
+    "status": "won",
+    "winner": "AMAL KUMAR PANDA",
+    "party": "Bharatiya Janata Party",
+    "margin": "11136"
   }
 }
