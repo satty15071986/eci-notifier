@@ -100,5 +100,23 @@
     "winner": "MUSTAFIJUR RAHAMAN (SUMAN)",
     "party": "All India Trinamool Congress",
     "margin": "30753"
+  },
+  "JAMALPUR": {
+    "status": "won",
+    "winner": "ARUN HALDER",
+    "party": "Bharatiya Janata Party",
+    "margin": "11178"
+  },
+  "RANIGANJ": {
+    "status": "won",
+    "winner": "PARTHA GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "17786"
+  },
+  "SALTORA": {
+    "status": "won",
+    "winner": "CHANDANA BAURI",
+    "party": "Bharatiya Janata Party",
+    "margin": "32135"
   }
 }
