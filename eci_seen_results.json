@@ -922,5 +922,29 @@
     "winner": "KOUSHIK CHOWDHURY",
     "party": "Bharatiya Janata Party",
     "margin": "58641"
+  },
+  "GALSI": {
+    "status": "won",
+    "winner": "RAJU PATRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "10494"
+  },
+  "GARBETA": {
+    "status": "won",
+    "winner": "PRADIP LODHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "26225"
+  },
+  "INDUS": {
+    "status": "won",
+    "winner": "NIRMAL KUMAR DHARA",
+    "party": "Bharatiya Janata Party",
+    "margin": "900"
+  },
+  "MATHABHANGA": {
+    "status": "won",
+    "winner": "NISHITH PRAMANIK",
+    "party": "Bharatiya Janata Party",
+    "margin": "57090"
   }
 }
