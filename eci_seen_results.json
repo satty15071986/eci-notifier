@@ -490,5 +490,59 @@
     "winner": "ABDUL MATIN MUHAMMAD",
     "party": "All India Trinamool Congress",
     "margin": "49341"
+  },
+  "BANDWAN": {
+    "status": "won",
+    "winner": "LABSEN BASKEY",
+    "party": "Bharatiya Janata Party",
+    "margin": "29577"
+  },
+  "BELDANGA": {
+    "status": "won",
+    "winner": "BHARAT KUMAR JHAWAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "13208"
+  },
+  "CHAPRA": {
+    "status": "won",
+    "winner": "JEBER SEKH",
+    "party": "All India Trinamool Congress",
+    "margin": "30780"
+  },
+  "DEBRA": {
+    "status": "won",
+    "winner": "SUBHASHIS OM",
+    "party": "Bharatiya Janata Party",
+    "margin": "28801"
+  },
+  "GOPIBALLAVPUR": {
+    "status": "won",
+    "winner": "RAJESH MAHATA",
+    "party": "Bharatiya Janata Party",
+    "margin": "26675"
+  },
+  "JORASANKO": {
+    "status": "won",
+    "winner": "VIJAY OJHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "5797"
+  },
+  "KASHIPUR": {
+    "status": "won",
+    "winner": "KAMALA KANTA HANSDA",
+    "party": "Bharatiya Janata Party",
+    "margin": "21276"
+  },
+  "KASHIPUR-BELGACHHIA": {
+    "status": "won",
+    "winner": "RITESH TIWARI",
+    "party": "Bharatiya Janata Party",
+    "margin": "1651"
+  },
+  "SAGARDIGHI": {
+    "status": "won",
+    "winner": "BAYRON BISWAS",
+    "party": "All India Trinamool Congress",
+    "margin": "34260"
   }
 }
