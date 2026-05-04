@@ -76,5 +76,23 @@
     "winner": "KSHUDIRAM TUDU",
     "party": "Bharatiya Janata Party",
     "margin": "52269"
+  },
+  "DEGANGA": {
+    "status": "won",
+    "winner": "ANISUR RAHAMAN BIDESH",
+    "party": "All India Trinamool Congress",
+    "margin": "17818"
+  },
+  "NAKASHIPARA": {
+    "status": "won",
+    "winner": "SANTANU DEY",
+    "party": "Bharatiya Janata Party",
+    "margin": "17327"
+  },
+  "SUJAPUR": {
+    "status": "won",
+    "winner": "SABINA YEASMIN",
+    "party": "All India Trinamool Congress",
+    "margin": "60287"
   }
 }
