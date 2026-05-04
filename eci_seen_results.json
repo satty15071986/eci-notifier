@@ -352,5 +352,29 @@
     "winner": "SUDIPTA DAS",
     "party": "Bharatiya Janata Party",
     "margin": "13343"
+  },
+  "ASANSOL UTTAR": {
+    "status": "won",
+    "winner": "KRISHNENDU MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "11615"
+  },
+  "BAGHMUNDI": {
+    "status": "won",
+    "winner": "RAHIDAS MAHATO",
+    "party": "Bharatiya Janata Party",
+    "margin": "40817"
+  },
+  "MANIKTALA": {
+    "status": "won",
+    "winner": "TAPAS ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "15644"
+  },
+  "MOTHABARI": {
+    "status": "won",
+    "winner": "ISLAM MD NAJRUL",
+    "party": "All India Trinamool Congress",
+    "margin": "10496"
   }
 }
