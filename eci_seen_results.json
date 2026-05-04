@@ -454,5 +454,29 @@
     "winner": "SWARAJ GHOSH",
     "party": "Bharatiya Janata Party",
     "margin": "23289"
+  },
+  "BALLYGUNGE": {
+    "status": "won",
+    "winner": "SOBHANDEB CHATTOPADHYAY",
+    "party": "All India Trinamool Congress",
+    "margin": "61476"
+  },
+  "ISLAMPUR": {
+    "status": "won",
+    "winner": "AGARWAL KANAIA LAL",
+    "party": "All India Trinamool Congress",
+    "margin": "40063"
+  },
+  "KANDI": {
+    "status": "won",
+    "winner": "GARGI DAS GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "10335"
+  },
+  "KRISHNANAGAR DAKSHIN": {
+    "status": "won",
+    "winner": "SADHAN GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "27801"
   }
 }
