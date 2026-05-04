@@ -1198,5 +1198,23 @@
     "winner": "SAMAR MUKHERJEE",
     "party": "All India Trinamool Congress",
     "margin": "32562"
+  },
+  "JAYNAGAR": {
+    "status": "won",
+    "winner": "BISWANATH DAS",
+    "party": "All India Trinamool Congress",
+    "margin": "26350"
+  },
+  "KHARGRAM": {
+    "status": "won",
+    "winner": "MITALI MAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "9333"
+  },
+  "ULUBERIA DAKSHIN": {
+    "status": "won",
+    "winner": "PULAK ROY",
+    "party": "All India Trinamool Congress",
+    "margin": "17187"
   }
 }
