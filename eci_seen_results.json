@@ -1372,5 +1372,17 @@
     "winner": "SANTU PAN",
     "party": "Bharatiya Janata Party",
     "margin": "30999"
+  },
+  "BEHALA PASCHIM": {
+    "status": "won",
+    "winner": "DR. INDRANIL KHAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "24699"
+  },
+  "SONARPUR UTTAR": {
+    "status": "won",
+    "winner": "DEBASISH DHAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "9807"
   }
 }
