@@ -1624,5 +1624,125 @@
     "winner": "CHIRAN BERA",
     "party": "Bharatiya Janata Party",
     "margin": "4177"
+  },
+  "ALIPURDUARS": {
+    "status": "won",
+    "winner": "PARITOSH DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "70420"
+  },
+  "BAGNAN": {
+    "status": "won",
+    "winner": "ARUNAVA SEN",
+    "party": "All India Trinamool Congress",
+    "margin": "11316"
+  },
+  "BALLY": {
+    "status": "won",
+    "winner": "SANJAY KUMAR SINGH",
+    "party": "Bharatiya Janata Party",
+    "margin": "11997"
+  },
+  "BARDHAMAN UTTAR": {
+    "status": "won",
+    "winner": "NISITH KUMAR MALIK",
+    "party": "All India Trinamool Congress",
+    "margin": "6460"
+  },
+  "BARUIPUR PURBA": {
+    "status": "won",
+    "winner": "BIVAS SARDAR",
+    "party": "All India Trinamool Congress",
+    "margin": "31815"
+  },
+  "COOCHBEHAR UTTAR": {
+    "status": "won",
+    "winner": "SUKUMAR RAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "70384"
+  },
+  "DIAMOND HARBOUR": {
+    "status": "won",
+    "winner": "PANNA LAL HALDER",
+    "party": "All India Trinamool Congress",
+    "margin": "31266"
+  },
+  "HANSAN": {
+    "status": "won",
+    "winner": "FAYEZUL HAQUE (KAJAL SK)",
+    "party": "All India Trinamool Congress",
+    "margin": "28298"
+  },
+  "HARIRAMPUR": {
+    "status": "won",
+    "winner": "BIPLAB MITRA",
+    "party": "All India Trinamool Congress",
+    "margin": "1986"
+  },
+  "JANGIPARA": {
+    "status": "won",
+    "winner": "PROSENJIT BAG",
+    "party": "Bharatiya Janata Party",
+    "margin": "862"
+  },
+  "KANTHI UTTAR": {
+    "status": "won",
+    "winner": "SUMITA SINHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "20055"
+  },
+  "KHARAGPUR SADAR": {
+    "status": "won",
+    "winner": "DILIP GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "30506"
+  },
+  "MADHYAMGRAM": {
+    "status": "won",
+    "winner": "RATHIN GHOSH",
+    "party": "All India Trinamool Congress",
+    "margin": "2399"
+  },
+  "MAGRAHAT PASCHIM": {
+    "status": "won",
+    "winner": "MD. SAMIM AHAMED MOLLA",
+    "party": "All India Trinamool Congress",
+    "margin": "58503"
+  },
+  "NALHATI": {
+    "status": "won",
+    "winner": "RAJENDRA PRASAD SINGH(RAJU SINGH)",
+    "party": "All India Trinamool Congress",
+    "margin": "13446"
+  },
+  "PALASHIPARA": {
+    "status": "won",
+    "winner": "RUKBANUR RAHMAN",
+    "party": "All India Trinamool Congress",
+    "margin": "11454"
+  },
+  "SAINTHIA": {
+    "status": "won",
+    "winner": "KRISHNA KANTA SAHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "10306"
+  },
+  "SANTIPUR": {
+    "status": "won",
+    "winner": "SWAPAN KUMAR DAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "45376"
+  },
+  "SURI": {
+    "status": "won",
+    "winner": "JAGANNATH CHATTOPADHYAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "28686"
+  },
+  "SWARUPNAGAR": {
+    "status": "won",
+    "winner": "BINA MONDAL",
+    "party": "All India Trinamool Congress",
+    "margin": "16017"
   }
 }
