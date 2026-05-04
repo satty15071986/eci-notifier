@@ -1336,5 +1336,41 @@
     "winner": "DR. MOSARRAF HOSSAIN",
     "party": "All India Trinamool Congress",
     "margin": "37705"
+  },
+  "DUM DUM UTTAR": {
+    "status": "won",
+    "winner": "SOURAV SIKDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "26404"
+  },
+  "KOLKATA PORT": {
+    "status": "won",
+    "winner": "FIRHAD HAKIM",
+    "party": "All India Trinamool Congress",
+    "margin": "56080"
+  },
+  "PATHARPRATIMA": {
+    "status": "won",
+    "winner": "SAMIR KUMAR JANA",
+    "party": "All India Trinamool Congress",
+    "margin": "4873"
+  },
+  "PINGLA": {
+    "status": "won",
+    "winner": "SWAGATA MANNA",
+    "party": "Bharatiya Janata Party",
+    "margin": "18480"
+  },
+  "RAJARHAT  GOPALPUR": {
+    "status": "won",
+    "winner": "TARUNJYOTI TEWARI",
+    "party": "Bharatiya Janata Party",
+    "margin": "27757"
+  },
+  "TARAKESWAR": {
+    "status": "won",
+    "winner": "SANTU PAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "30999"
   }
 }
