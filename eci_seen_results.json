@@ -592,5 +592,47 @@
     "winner": "RITABRATA BANERJEE",
     "party": "All India Trinamool Congress",
     "margin": "11838"
+  },
+  "CHANDRAKONA": {
+    "status": "won",
+    "winner": "SUKANTA DOLUI",
+    "party": "Bharatiya Janata Party",
+    "margin": "33481"
+  },
+  "DASPUR": {
+    "status": "won",
+    "winner": "TAPAN KUMAR DUTTA",
+    "party": "Bharatiya Janata Party",
+    "margin": "32134"
+  },
+  "KESHIARY": {
+    "status": "won",
+    "winner": "BHADRA HEMRAM",
+    "party": "Bharatiya Janata Party",
+    "margin": "15887"
+  },
+  "KHARAGPUR": {
+    "status": "won",
+    "winner": "DINEN ROY",
+    "party": "All India Trinamool Congress",
+    "margin": "2872"
+  },
+  "MALATIPUR": {
+    "status": "won",
+    "winner": "ABDUR RAHIM BOXI",
+    "party": "All India Trinamool Congress",
+    "margin": "59747"
+  },
+  "SONAMUKHI": {
+    "status": "won",
+    "winner": "DIBAKAR GHARAMI",
+    "party": "Bharatiya Janata Party",
+    "margin": "29410"
+  },
+  "TALDANGRA": {
+    "status": "won",
+    "winner": "SOUVIK PATRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "50073"
   }
 }
