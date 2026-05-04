@@ -304,5 +304,47 @@
     "winner": "HUMAYUN KABIR",
     "party": "Aam Janata Unnayan party",
     "margin": "27943"
+  },
+  "BALARAMPUR": {
+    "status": "won",
+    "winner": "JALADHAR MAHATO",
+    "party": "Bharatiya Janata Party",
+    "margin": "35051"
+  },
+  "CHOWRANGEE": {
+    "status": "won",
+    "winner": "BANDYOPADHYAY NAYNA",
+    "party": "All India Trinamool Congress",
+    "margin": "22002"
+  },
+  "HOWRAH DAKSHIN": {
+    "status": "won",
+    "winner": "NANDITA CHOWDHURY",
+    "party": "All India Trinamool Congress",
+    "margin": "7828"
+  },
+  "KULTI": {
+    "status": "won",
+    "winner": "AJAY KUMAR PODDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "26498"
+  },
+  "ONDA": {
+    "status": "won",
+    "winner": "AMARNATH SHAKHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "31723"
+  },
+  "PHANSIDEWA": {
+    "status": "won",
+    "winner": "DURGA MURMU",
+    "party": "Bharatiya Janata Party",
+    "margin": "45263"
+  },
+  "RAJGANJ": {
+    "status": "won",
+    "winner": "DINESH SARKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "21477"
   }
 }
