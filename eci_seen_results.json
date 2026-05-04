@@ -1294,5 +1294,41 @@
     "winner": "DIPANJAN CHAKRABORTY",
     "party": "Bharatiya Janata Party",
     "margin": "10415"
+  },
+  "BANGAON DAKSHIN": {
+    "status": "won",
+    "winner": "SWAPAN MAJUMDER",
+    "party": "Bharatiya Janata Party",
+    "margin": "37814"
+  },
+  "BHANGAR": {
+    "status": "won",
+    "winner": "MD NAWSAD SIDDIQUE",
+    "party": "All India Secular Front",
+    "margin": "32088"
+  },
+  "CANNING PASCHIM": {
+    "status": "won",
+    "winner": "PARESH RAM DAS",
+    "party": "All India Trinamool Congress",
+    "margin": "40665"
+  },
+  "FALAKATA": {
+    "status": "won",
+    "winner": "DIPAK BARMAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "45999"
+  },
+  "KARIMPUR": {
+    "status": "won",
+    "winner": "SAMARENDRANATH GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "10185"
+  },
+  "KHANAKUL": {
+    "status": "won",
+    "winner": "SUSANTA GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "34483"
   }
 }
