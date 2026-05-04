@@ -286,5 +286,23 @@
     "winner": "HUMAYUN KABIR",
     "party": "Aam Janata Unnayan party",
     "margin": "58876"
+  },
+  "ASHOKNAGAR": {
+    "status": "won",
+    "winner": "DR. SUMAY HIRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "9408"
+  },
+  "KURSEONG": {
+    "status": "won",
+    "winner": "SONAM LAMA",
+    "party": "Bharatiya Janata Party",
+    "margin": "17007"
+  },
+  "NOWDA": {
+    "status": "won",
+    "winner": "HUMAYUN KABIR",
+    "party": "Aam Janata Unnayan party",
+    "margin": "27943"
   }
 }
