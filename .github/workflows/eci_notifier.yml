@@ -38,7 +38,7 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update election state"
           git push || true
 
-      - name: Disable workflow when all 294 declared
+      - name: Disable workflow when all 294 declared, else self-chain
         run: |
           TOTAL=$(python -c "
           import json, os
@@ -49,6 +49,12 @@ jobs:
           if [ "$TOTAL" -ge "294" ]; then
             gh workflow disable "eci_notifier.yml"
             echo "All 294 declared - workflow disabled."
+          elif [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Waiting 4.5 min then triggering next poll (self-chain)..."
+            sleep 270
+            gh workflow run eci_notifier.yml
+          else
+            echo "Schedule trigger active - no self-chain needed."
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
