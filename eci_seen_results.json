@@ -754,5 +754,35 @@
     "winner": "DUDH KUMAR MONDAL",
     "party": "Bharatiya Janata Party",
     "margin": "21002"
+  },
+  "BARDHAMAN DAKSHIN": {
+    "status": "won",
+    "winner": "MOUMITA BISWAS MISRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "30470"
+  },
+  "DUBRAJPUR": {
+    "status": "won",
+    "winner": "ANUP KUMAR SAHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "27647"
+  },
+  "KARANDIGHI": {
+    "status": "won",
+    "winner": "BIRAJ BISWAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "19869"
+  },
+  "NABAGRAM": {
+    "status": "won",
+    "winner": "DILIP SAHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "5919"
+  },
+  "SALBONI": {
+    "status": "won",
+    "winner": "BIMAN MAHATA",
+    "party": "Bharatiya Janata Party",
+    "margin": "15243"
   }
 }
