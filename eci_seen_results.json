@@ -676,5 +676,53 @@
     "winner": "MAMONI BAURI",
     "party": "Bharatiya Janata Party",
     "margin": "44059"
+  },
+  "BARJORA": {
+    "status": "won",
+    "winner": "BILLESWAR SINHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "41310"
+  },
+  "ENTALLY": {
+    "status": "won",
+    "winner": "SANDIPAN SAHA",
+    "party": "All India Trinamool Congress",
+    "margin": "34006"
+  },
+  "KESHPUR": {
+    "status": "won",
+    "winner": "SEULI SAHA",
+    "party": "All India Trinamool Congress",
+    "margin": "50105"
+  },
+  "MANIKCHAK": {
+    "status": "won",
+    "winner": "GOUR CHANDRA MANDAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "13938"
+  },
+  "MATIGARA-NAXALBARI": {
+    "status": "won",
+    "winner": "ANANDAMAY BARMAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "104265"
+  },
+  "PARA": {
+    "status": "won",
+    "winner": "NADIAR CHAND BOURI",
+    "party": "Bharatiya Janata Party",
+    "margin": "33721"
+  },
+  "SHIBPUR": {
+    "status": "won",
+    "winner": "RUDRANIL GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "16058"
+  },
+  "SUTI": {
+    "status": "won",
+    "winner": "EMANI BISWAS",
+    "party": "All India Trinamool Congress",
+    "margin": "12357"
   }
 }
