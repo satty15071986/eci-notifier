@@ -892,5 +892,35 @@
     "winner": "BHASKAR BHATTACHARYA",
     "party": "Bharatiya Janata Party",
     "margin": "8685"
+  },
+  "DURGAPUR PASCHIM": {
+    "status": "won",
+    "winner": "LAKSHMAN CHANDRA GHORUI",
+    "party": "Bharatiya Janata Party",
+    "margin": "37598"
+  },
+  "KALNA": {
+    "status": "won",
+    "winner": "SIDDHARTHA MAJUMDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "28630"
+  },
+  "KRISHNANAGAR UTTAR": {
+    "status": "won",
+    "winner": "TARAK NATH CHATTERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "78361"
+  },
+  "PURBASTHALI DAKSHIN": {
+    "status": "won",
+    "winner": "PRAN KRISHNA TAPADAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "16662"
+  },
+  "RAIGANJ": {
+    "status": "won",
+    "winner": "KOUSHIK CHOWDHURY",
+    "party": "Bharatiya Janata Party",
+    "margin": "58641"
   }
 }
