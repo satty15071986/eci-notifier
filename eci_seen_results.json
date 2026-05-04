@@ -544,5 +544,53 @@
     "winner": "BAYRON BISWAS",
     "party": "All India Trinamool Congress",
     "margin": "34260"
+  },
+  "ARAMBAG": {
+    "status": "won",
+    "winner": "BAG HEMANTA",
+    "party": "Bharatiya Janata Party",
+    "margin": "28959"
+  },
+  "BADURIA": {
+    "status": "won",
+    "winner": "BURHANUL MUKADDIM (LITON)",
+    "party": "All India Trinamool Congress",
+    "margin": "40061"
+  },
+  "DHUPGURI": {
+    "status": "won",
+    "winner": "NARESH ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "38550"
+  },
+  "KAKDWIP": {
+    "status": "won",
+    "winner": "DIPANKAR JANA",
+    "party": "Bharatiya Janata Party",
+    "margin": "4760"
+  },
+  "KASBA": {
+    "status": "won",
+    "winner": "AHMED JAVED KHAN",
+    "party": "All India Trinamool Congress",
+    "margin": "20974"
+  },
+  "KETUGRAM": {
+    "status": "won",
+    "winner": "ANADI GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "27610"
+  },
+  "PANCHLA": {
+    "status": "won",
+    "winner": "GULSAN MULLICK",
+    "party": "All India Trinamool Congress",
+    "margin": "38320"
+  },
+  "ULUBERIA PURBA": {
+    "status": "won",
+    "winner": "RITABRATA BANERJEE",
+    "party": "All India Trinamool Congress",
+    "margin": "11838"
   }
 }
