@@ -1024,5 +1024,53 @@
     "winner": "GOPAL CHANDRA SAHA",
     "party": "Bharatiya Janata Party",
     "margin": "50128"
+  },
+  "CHAKDAHA": {
+    "status": "won",
+    "winner": "BANKIM CHANDRA GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "36945"
+  },
+  "KALCHINI": {
+    "status": "won",
+    "winner": "BISHAL LAMA",
+    "party": "Bharatiya Janata Party",
+    "margin": "37843"
+  },
+  "MANBAZAR": {
+    "status": "won",
+    "winner": "MAYNA MURMU",
+    "party": "Bharatiya Janata Party",
+    "margin": "27283"
+  },
+  "MAYNAGURI": {
+    "status": "won",
+    "winner": "DALIM CHANDRA ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "56503"
+  },
+  "NAGRAKATA": {
+    "status": "won",
+    "winner": "PUNA BHENGRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "25858"
+  },
+  "PANDUA": {
+    "status": "won",
+    "winner": "TUSAR KUMAR MAJUMDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "5228"
+  },
+  "RAMNAGAR": {
+    "status": "won",
+    "winner": "DR. CHANDRA SEKHAR MONDAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "26939"
+  },
+  "SONARPUR DAKSHIN": {
+    "status": "won",
+    "winner": "RUPA GANGULY",
+    "party": "Bharatiya Janata Party",
+    "margin": "35782"
   }
 }
