@@ -376,5 +376,59 @@
     "winner": "ISLAM MD NAJRUL",
     "party": "All India Trinamool Congress",
     "margin": "10496"
+  },
+  "BANKURA": {
+    "status": "won",
+    "winner": "NILADRI SEKHAR DANA",
+    "party": "Bharatiya Janata Party",
+    "margin": "54177"
+  },
+  "BEHALA PURBA": {
+    "status": "won",
+    "winner": "SANKAR SIKDER",
+    "party": "Bharatiya Janata Party",
+    "margin": "25137"
+  },
+  "CHANDITALA": {
+    "status": "won",
+    "winner": "SWATI KHANDOKER",
+    "party": "All India Trinamool Congress",
+    "margin": "19663"
+  },
+  "KALIGANJ": {
+    "status": "won",
+    "winner": "ALIFA AHMED",
+    "party": "All India Trinamool Congress",
+    "margin": "10172"
+  },
+  "LALGOLA": {
+    "status": "won",
+    "winner": "ABDUL AZIZ DOCTOR",
+    "party": "All India Trinamool Congress",
+    "margin": "18960"
+  },
+  "MINAKHAN": {
+    "status": "won",
+    "winner": "USHA RANI MONDAL",
+    "party": "All India Trinamool Congress",
+    "margin": "32292"
+  },
+  "PANSKURA PURBA": {
+    "status": "won",
+    "winner": "SUBRATA MAITY(RANA)",
+    "party": "Bharatiya Janata Party",
+    "margin": "17903"
+  },
+  "RAIPUR": {
+    "status": "won",
+    "winner": "KSHETRAMOHAN HANSDA",
+    "party": "Bharatiya Janata Party",
+    "margin": "28742"
+  },
+  "SITAI": {
+    "status": "won",
+    "winner": "SANGITA ROY",
+    "party": "All India Trinamool Congress",
+    "margin": "2721"
   }
 }
