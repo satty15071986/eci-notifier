@@ -724,5 +724,35 @@
     "winner": "EMANI BISWAS",
     "party": "All India Trinamool Congress",
     "margin": "12357"
+  },
+  "BISHNUPUR": {
+    "status": "won",
+    "winner": "SHUKLA CHATTERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "30605"
+  },
+  "CHANCHAL": {
+    "status": "won",
+    "winner": "PRASUN BANERJEE",
+    "party": "All India Trinamool Congress",
+    "margin": "63874"
+  },
+  "HINGALGANJ": {
+    "status": "won",
+    "winner": "REKHA PATRA",
+    "party": "Bharatiya Janata Party",
+    "margin": "5421"
+  },
+  "KRISHNAGANJ": {
+    "status": "won",
+    "winner": "SUKANTA BISWAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "60899"
+  },
+  "MAYURESWAR": {
+    "status": "won",
+    "winner": "DUDH KUMAR MONDAL",
+    "party": "Bharatiya Janata Party",
+    "margin": "21002"
   }
 }
