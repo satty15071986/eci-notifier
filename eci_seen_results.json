@@ -1384,5 +1384,245 @@
     "winner": "DEBASISH DHAR",
     "party": "Bharatiya Janata Party",
     "margin": "9807"
+  },
+  "AMDANGA": {
+    "status": "won",
+    "winner": "MOHAMMAD KASEM SIDDIQUE",
+    "party": "All India Trinamool Congress",
+    "margin": "2995"
+  },
+  "BAGDA": {
+    "status": "won",
+    "winner": "SOMA THAKUR",
+    "party": "Bharatiya Janata Party",
+    "margin": "34616"
+  },
+  "BARRACKPUR": {
+    "status": "won",
+    "winner": "KAUSTUV BAGCHI",
+    "party": "Bharatiya Janata Party",
+    "margin": "15822"
+  },
+  "BASIRHAT DAKSHIN": {
+    "status": "won",
+    "winner": "SURAJIT MITRA (BADAL)",
+    "party": "All India Trinamool Congress",
+    "margin": "9544"
+  },
+  "BHABANIPUR": {
+    "status": "won",
+    "winner": "ADHIKARI SUVENDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "15105"
+  },
+  "BHAGABANPUR": {
+    "status": "won",
+    "winner": "SANTANU PRAMANIK",
+    "party": "Bharatiya Janata Party",
+    "margin": "20878"
+  },
+  "BOLPUR": {
+    "status": "won",
+    "winner": "CHANDRANATH SINHA",
+    "party": "All India Trinamool Congress",
+    "margin": "13188"
+  },
+  "CHANDANNAGAR": {
+    "status": "won",
+    "winner": "Deepanjan Kumar Guha",
+    "party": "Bharatiya Janata Party",
+    "margin": "13441"
+  },
+  "COOCHBEHAR DAKSHIN": {
+    "status": "won",
+    "winner": "RATHINDRA BOSE",
+    "party": "Bharatiya Janata Party",
+    "margin": "23284"
+  },
+  "HALDIA": {
+    "status": "won",
+    "winner": "PRADIP KUMAR BIJALI",
+    "party": "Bharatiya Janata Party",
+    "margin": "49062"
+  },
+  "HARIPAL": {
+    "status": "won",
+    "winner": "MADHUMITA GHOSH",
+    "party": "Bharatiya Janata Party",
+    "margin": "3488"
+  },
+  "HARISCHANDRAPUR": {
+    "status": "won",
+    "winner": "MD. MATIBUR RAHAMAN",
+    "party": "All India Trinamool Congress",
+    "margin": "48271"
+  },
+  "HOWRAH MADHYA": {
+    "status": "won",
+    "winner": "ARUP ROY",
+    "party": "All India Trinamool Congress",
+    "margin": "16083"
+  },
+  "JADAVPUR": {
+    "status": "won",
+    "winner": "SARBORI MUKHERJEE",
+    "party": "Bharatiya Janata Party",
+    "margin": "27716"
+  },
+  "JAGATDAL": {
+    "status": "won",
+    "winner": "DR. RAJESH KUMAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "20909"
+  },
+  "KATULPUR": {
+    "status": "won",
+    "winner": "LAKSHMI KANTA MAJUMDAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "34367"
+  },
+  "KHEJURI": {
+    "status": "won",
+    "winner": "SUBRATA PAIK",
+    "party": "Bharatiya Janata Party",
+    "margin": "32690"
+  },
+  "KUMARGANJ": {
+    "status": "won",
+    "winner": "TORAF HOSSAIN MANDAL",
+    "party": "All India Trinamool Congress",
+    "margin": "6685"
+  },
+  "KUMARGRAM": {
+    "status": "won",
+    "winner": "MANOJ KUMAR ORAON",
+    "party": "Bharatiya Janata Party",
+    "margin": "52877"
+  },
+  "KUSHMANDI": {
+    "status": "won",
+    "winner": "TAPAS CHANDRA ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "9063"
+  },
+  "MADARIHAT": {
+    "status": "won",
+    "winner": "LAXUMAN LIMBU",
+    "party": "Bharatiya Janata Party",
+    "margin": "40910"
+  },
+  "MAHISADAL": {
+    "status": "won",
+    "winner": "SUBHAS CHANDRA PANJA",
+    "party": "Bharatiya Janata Party",
+    "margin": "26238"
+  },
+  "MAL": {
+    "status": "won",
+    "winner": "SUKRA MUNDA",
+    "party": "Bharatiya Janata Party",
+    "margin": "15492"
+  },
+  "MANDIRBAZAR": {
+    "status": "won",
+    "winner": "JOYDEB HALDER S/O - KARTICK CHANDRA HALDER",
+    "party": "All India Trinamool Congress",
+    "margin": "1995"
+  },
+  "NANDIGRAM": {
+    "status": "won",
+    "winner": "ADHIKARI SUVENDU",
+    "party": "Bharatiya Janata Party",
+    "margin": "9665"
+  },
+  "NANOOR": {
+    "status": "won",
+    "winner": "BIDHAN CHANDRA MAJHI",
+    "party": "All India Trinamool Congress",
+    "margin": "8122"
+  },
+  "NATABARI": {
+    "status": "won",
+    "winner": "GIRIJA SHANKAR RAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "34613"
+  },
+  "NOAPARA": {
+    "status": "won",
+    "winner": "ARJUN SINGH",
+    "party": "Bharatiya Janata Party",
+    "margin": "17656"
+  },
+  "PANIHATI": {
+    "status": "won",
+    "winner": "RATNA DEBNATH",
+    "party": "Bharatiya Janata Party",
+    "margin": "28836"
+  },
+  "PANSKURA PASCHIM": {
+    "status": "won",
+    "winner": "SINTU SENAPATI",
+    "party": "Bharatiya Janata Party",
+    "margin": "32567"
+  },
+  "RAIDIGHI": {
+    "status": "won",
+    "winner": "TAPAS MONDAL S/O-SHIBPRASAD MONDAL",
+    "party": "All India Trinamool Congress",
+    "margin": "5957"
+  },
+  "RAMPURHAT": {
+    "status": "won",
+    "winner": "DHRUBA SAHA",
+    "party": "Bharatiya Janata Party",
+    "margin": "24233"
+  },
+  "RANAGHAT UTTAR PASCHIM": {
+    "status": "won",
+    "winner": "PARTHA SARATHI CHATTERJEE(BABU)",
+    "party": "Bharatiya Janata Party",
+    "margin": "57551"
+  },
+  "RANAGHAT UTTAR PURBA": {
+    "status": "won",
+    "winner": "ASHIM BISWAS",
+    "party": "Bharatiya Janata Party",
+    "margin": "51743"
+  },
+  "SATGACHHIA": {
+    "status": "won",
+    "winner": "AGNISWAR NASKAR",
+    "party": "Bharatiya Janata Party",
+    "margin": "401"
+  },
+  "TEHATTA": {
+    "status": "won",
+    "winner": "SUBRATA KABIRAJ",
+    "party": "Bharatiya Janata Party",
+    "margin": "28253"
+  },
+  "TOLLYGANJ": {
+    "status": "won",
+    "winner": "PAPIA ADHIKARY",
+    "party": "Bharatiya Janata Party",
+    "margin": "6013"
+  },
+  "TUFANGANJ": {
+    "status": "won",
+    "winner": "MALATI RAVA ROY",
+    "party": "Bharatiya Janata Party",
+    "margin": "26457"
+  },
+  "UDAYNARAYANPUR": {
+    "status": "won",
+    "winner": "SAMIR KUMAR PANJA",
+    "party": "All India Trinamool Congress",
+    "margin": "12227"
+  },
+  "ULUBERIA UTTAR": {
+    "status": "won",
+    "winner": "CHIRAN BERA",
+    "party": "Bharatiya Janata Party",
+    "margin": "4177"
   }
 }
