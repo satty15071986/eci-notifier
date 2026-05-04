@@ -1096,5 +1096,41 @@
     "winner": "DASGUPTA SWAPAN",
     "party": "Bharatiya Janata Party",
     "margin": "20865"
+  },
+  "AMTA": {
+    "status": "won",
+    "winner": "AMIT SAMANTA",
+    "party": "Bharatiya Janata Party",
+    "margin": "4454"
+  },
+  "BANGAON UTTAR": {
+    "status": "won",
+    "winner": "ASHOK KIRTANIA",
+    "party": "Bharatiya Janata Party",
+    "margin": "40670"
+  },
+  "CHUNCHURA": {
+    "status": "won",
+    "winner": "SUBIR NAG",
+    "party": "Bharatiya Janata Party",
+    "margin": "43435"
+  },
+  "NARAYANGARH": {
+    "status": "won",
+    "winner": "GIRI RAMAPRASAD",
+    "party": "Bharatiya Janata Party",
+    "margin": "20367"
+  },
+  "SITALKUCHI": {
+    "status": "won",
+    "winner": "SABITRI BARMAN",
+    "party": "Bharatiya Janata Party",
+    "margin": "25278"
+  },
+  "TAMLUK": {
+    "status": "won",
+    "winner": "HARE KRISHNA BERA",
+    "party": "Bharatiya Janata Party",
+    "margin": "34729"
   }
 }
