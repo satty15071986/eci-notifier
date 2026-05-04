@@ -118,5 +118,11 @@
     "winner": "CHANDANA BAURI",
     "party": "Bharatiya Janata Party",
     "margin": "32135"
+  },
+  "SAMSERGANJ": {
+    "status": "won",
+    "winner": "MOHAMMED NOOR ALAM",
+    "party": "All India Trinamool Congress",
+    "margin": "7587"
   }
 }
