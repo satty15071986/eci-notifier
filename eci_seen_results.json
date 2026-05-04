@@ -796,5 +796,35 @@
     "winner": "TAPAS MAITY",
     "party": "All India Trinamool Congress",
     "margin": "42177"
+  },
+  "BASANTI": {
+    "status": "won",
+    "winner": "NILIMA MISTRY BISHAL",
+    "party": "All India Trinamool Congress",
+    "margin": "56181"
+  },
+  "CHHATNA": {
+    "status": "won",
+    "winner": "SATYANARAYAN MUKHOPADHYAY",
+    "party": "Bharatiya Janata Party",
+    "margin": "47174"
+  },
+  "DANTAN": {
+    "status": "won",
+    "winner": "AJIT KUMAR JANA",
+    "party": "Bharatiya Janata Party",
+    "margin": "10376"
+  },
+  "KALIAGANJ": {
+    "status": "won",
+    "winner": "UTPAL BRAHMACHARO",
+    "party": "Bharatiya Janata Party",
+    "margin": "76425"
+  },
+  "RANINAGAR": {
+    "status": "won",
+    "winner": "JULFIKAR ALI",
+    "party": "Indian National Congress",
+    "margin": "2701"
   }
 }
