@@ -1744,5 +1744,11 @@
     "winner": "BINA MONDAL",
     "party": "All India Trinamool Congress",
     "margin": "16017"
+  },
+  "RAJARHAT NEW TOWN": {
+    "status": "won",
+    "winner": "PIYUSH KANODIA",
+    "party": "Bharatiya Janata Party",
+    "margin": "316"
   }
 }
